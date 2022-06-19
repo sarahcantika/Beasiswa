@@ -1,0 +1,80 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.bg{
+	
+	/*background-size: 100%;
+	margin: auto;
+	font-size: 25px;*/
+	display: block;
+	background-image: url("buku.png");
+	font-family:Monotype Corsiva;
+	height: 100vh;
+	background-size: cover;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+button{
+	font-size: 20px;
+	border-radius: 6px;
+	padding: 25px;
+	border-color: #4D4C7D;
+	background-color: #C499BA;
+}
+.tulisan{
+	text-align: center;
+}
+.bg2{
+	text-align: auto;
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 170vh;
+	height: 50vh;
+}
+.nav-item{
+	margin-left: 1em;
+}
+.nav-link{
+	font-family: Century;
+	font-size: 17px;
+}
+body{
+	font-family: 'Montserrat', serif;
+	/*font-size: 20px;
+	margin-bottom: 2em;*/
+}
+.nav{
+	background: #B1BCE6;
+}
+table{
+	border-width: 3px;
+	border-color: black;
+	margin-left: 3em;
+}
+.nav-item{
+	font-weight: bold;
+}
+.btn btn-warning{
+	box-shadow: 7px 7px 10px;
+}
+.container{
+	margin-top: 3em;}
+
+
+.logo {
+    height: auto;
+    margin-left: 450px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.contents{
+	position: relative;
+    margin: 15%;
+    left: 10%;
+    margin-top: 15px;
+    margin-left: 0px;
+    text-align: left;
+}
